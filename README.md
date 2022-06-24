@@ -20,7 +20,7 @@ Hello, my name is Sergej and I am always looking for new opportunities to improv
 
 ### Private Projects
 
-* A Full Screen Digital Clock JavaScript Project: [fsdclock](fsdclock.w3bdev.de)
+* A Full Screen Digital Clock JavaScript Project: [fsdclock](https://fsdclock.w3bdev.de)
 
 
 ### Internships
