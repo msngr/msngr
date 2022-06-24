@@ -5,7 +5,7 @@
 Hello, my name is Sergej and I am always looking for new opportunities to improve myself and learn as much as I can,<br>to improve as a Web Developer every single day.
 
 1. I quit my job and taught myself Web Development in 2020.
-2. In 2021 i started my own business, developing websites for smaller companies and freelancer.
+2. In 2021 I started my own business, developing websites for smaller companies and freelancer.
 3. 2022 I decided to give up my business and specialised in Frontend Development.
 4. Currently I am doing my second internship, looking forward to work as a Frontend Web Developer full time and remote.
 
