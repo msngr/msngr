@@ -13,14 +13,14 @@ Hello, my name is Sergej and I am always looking for new opportunities to improv
 
 ### Business Projects
 
-* My former business website: webdesign-sorgenfrei.w3bdev.de
-* Client - beauty salon website: beautyandstyle.w3bdev.de
-* Client - author website: niemannspoesie.w3bdev.de
+* My former business website: [webdesign-sorgenfrei.de](https://webdesign-sorgenfrei.w3bdev.de)
+* Client - beauty salon website: [beautyandstyle-frankfurt.de](https://beautyandstyle.w3bdev.de)
+* Client - author website: [niemannspoesie.de](https://niemannspoesie.w3bdev.de)
 
 
 ### Private Projects
 
-* A Full Screen Digital Clock JavaScript Project: fsdclock.w3bdev.de
+* A Full Screen Digital Clock JavaScript Project: [fsdclock](fsdclock.w3bdev.de)
 
 
 ### Internships
