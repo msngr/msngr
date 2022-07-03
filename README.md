@@ -26,7 +26,7 @@ Hello, my name is Sergej and I am always looking for new opportunities to improv
 ### Internships
 
 * 1 month at [Lambda IT-Solution](https://www.lambda-it.de/) as a Frontend Web Developer<br>Stack: HTML, (S)CSS, JavaScript, Vue.js, Bootstrap, Laravel, Redis, Websockets, MySQL/MariaDB
-* 1 month (currently) at [cierra GmbH](https://cierra.de/) as a Frontend Web Developer<br>Stack: HTML, (S)CSS, JavaScript, Vue.js, Laravel Livewire, Alpine.js
+* 1 month (currently) at [cierra GmbH](https://cierra.de/) as a Frontend Web Developer<br>Stack: HTML, (S)CSS, JavaScript, Vue.js, Laravel Livewire, Alpine.js, Tailwind
 
 
 ## Contact
