@@ -1,5 +1,5 @@
 <span id="top"></span>
-# About Me [OUTDATED]
+# About Me [OFFLINE]
 
 ## Former Frontend Web Developer For Pixel Perfect Responsive Websites,<br>SPAs And Web Apps
 
