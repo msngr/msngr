@@ -1,17 +1,18 @@
 <span id="top"></span>
-# About Me [OFFLINE]
+# About Me
 
-## Former Frontend Web Developer For Pixel Perfect Responsive Websites,<br>SPAs And Web Apps
+## Frontend Web Developer For Pixel Perfect Responsive Websites,<br>SPAs And Web Apps
 
-Hello, my name is Sergej ~~and I am a remote developer, currently looking for a position as software tester and working on building my second side business.~~
+Hello, my name is Sergej and I'm a developer, currently restarting my IT carrier and looking for job opportunities.
 
 About me:
 
 1. I quit my job and taught myself Web Development in 2020.
-2. In 2021 I started my [own business](https://webdesign-sorgenfrei.w3bdev.de), developing websites for smaller companies and freelancer.
+2. In 2021 I started my [own business](https://webdesign-sorgenfrei.w3bdev.de), developing websites for smaller companies and freelancers.
 3. 2022 I had an internship and decided to give up my business and specialised in Frontend Development.
 4. 2022 June until November I worked remotely at [cierra GmbH](https://cierra.de/).
-5. ~~Currently I am building my second business with a different strategy.~~
+5. 2023 I was building my second business readysite.online with a different strategy, but discarded the idea and worked again in my former professional field.
+6. 2024 I decided to give it another try and to proceed my carrier in the wide field of IT.
 
 ## My Work
 
@@ -47,6 +48,6 @@ At [cierra GmbH](https://cierra.de/):
 
 ## Contact
 
-Sergej Maisinger - [LinkedIn](https://www.linkedin.com/in/sergejmaisinger/) - [Xing](https://www.xing.com/profile/Sergej_Maisinger/cv) - ~~[Email](mailto:maisinger@w3bdev.de)~~
+Sergej Maisinger - [LinkedIn](https://www.linkedin.com/in/sergejmaisinger/) - [Xing](https://www.xing.com/profile/Sergej_Maisinger/cv) - [Email](mailto:maisinger@w3bdev.de)
 
 <p align="right"><a href="#top" style="text-decoration: underline;">back to top</a></p>
